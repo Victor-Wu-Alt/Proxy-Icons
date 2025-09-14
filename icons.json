@@ -1,0 +1,10 @@
+{
+	"name": "Proxy Icons",
+	"version": "1.0",
+	"icons": [
+		{
+			"name": "matcha",
+			"url": "./assets/matcha.png"
+		}
+	]
+}
