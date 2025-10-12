@@ -2,184 +2,20 @@
   "name": "Proxy Icons",
   "icons": [
     {
-      "name": "algeria",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/algeria.png"
-    },
-    {
       "name": "antman",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/antman.png"
-    },
-    {
-      "name": "australia",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/australia.png"
-    },
-    {
-      "name": "bahamas",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/bahamas.png"
-    },
-    {
-      "name": "bahrain",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/bahrain.png"
     },
     {
       "name": "balckbao",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/balckbao.png"
     },
     {
-      "name": "bangladesh",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/bangladesh.png"
-    },
-    {
-      "name": "belgium",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/belgium.png"
-    },
-    {
-      "name": "brazil",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/brazil.png"
-    },
-    {
-      "name": "bulgaria",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/bulgaria.png"
-    },
-    {
-      "name": "burundi",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/burundi.png"
-    },
-    {
-      "name": "cameroon",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/cameroon.png"
-    },
-    {
-      "name": "canada",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/canada.png"
-    },
-    {
       "name": "cap",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/cap.png"
     },
     {
-      "name": "chile",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/chile.png"
-    },
-    {
-      "name": "china",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/china.png"
-    },
-    {
-      "name": "colombia",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/colombia.png"
-    },
-    {
-      "name": "comoros",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/comoros.png"
-    },
-    {
-      "name": "cuba",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/cuba.png"
-    },
-    {
-      "name": "czech-republic",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/czech-republic.png"
-    },
-    {
-      "name": "deadpool",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/deadpool.png"
-    },
-    {
-      "name": "denmark",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/denmark.png"
-    },
-    {
-      "name": "east-timor",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/east-timor.png"
-    },
-    {
-      "name": "finland",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/finland.png"
-    },
-    {
-      "name": "france",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/france.png"
-    },
-    {
-      "name": "germany",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/germany.png"
-    },
-    {
       "name": "google",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/google.png"
-    },
-    {
-      "name": "great-britain",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/great-britain.png"
-    },
-    {
-      "name": "greece",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/greece.png"
-    },
-    {
-      "name": "greenland",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/greenland.png"
-    },
-    {
-      "name": "guyana",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/guyana.png"
-    },
-    {
-      "name": "honduras",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/honduras.png"
-    },
-    {
-      "name": "hungary",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/hungary.png"
-    },
-    {
-      "name": "india",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/india.png"
-    },
-    {
-      "name": "indonesia",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/indonesia.png"
-    },
-    {
-      "name": "ireland",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/ireland.png"
-    },
-    {
-      "name": "israel",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/israel.png"
-    },
-    {
-      "name": "italy",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/italy.png"
-    },
-    {
-      "name": "jamaica",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/jamaica.png"
-    },
-    {
-      "name": "japan",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/japan.png"
-    },
-    {
-      "name": "jordan",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/jordan.png"
-    },
-    {
-      "name": "kuwait",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/kuwait.png"
-    },
-    {
-      "name": "madagascar",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/madagascar.png"
-    },
-    {
-      "name": "maldives",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/maldives.png"
-    },
-    {
-      "name": "malta",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/malta.png"
     },
     {
       "name": "man",
@@ -194,136 +30,12 @@
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/matcha.png"
     },
     {
-      "name": "morocco",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/morocco.png"
-    },
-    {
-      "name": "mozambique",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/mozambique.png"
-    },
-    {
       "name": "naruto",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/naruto.png"
     },
     {
-      "name": "new-zealand",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/new-zealand.png"
-    },
-    {
-      "name": "nigeria",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/nigeria.png"
-    },
-    {
-      "name": "north-korea",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/north-korea.png"
-    },
-    {
-      "name": "norway",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/norway.png"
-    },
-    {
-      "name": "pakistan",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/pakistan.png"
-    },
-    {
-      "name": "panama",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/panama.png"
-    },
-    {
-      "name": "philippines",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/philippines.png"
-    },
-    {
-      "name": "poland",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/poland.png"
-    },
-    {
-      "name": "qatar",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/qatar.png"
-    },
-    {
-      "name": "republic-of-macedonia",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/republic-of-macedonia.png"
-    },
-    {
-      "name": "romania",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/romania.png"
-    },
-    {
-      "name": "russia",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/russia.png"
-    },
-    {
-      "name": "senegal",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/senegal.png"
-    },
-    {
-      "name": "singapore",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/singapore.png"
-    },
-    {
-      "name": "slovakia",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/slovakia.png"
-    },
-    {
-      "name": "south-africa",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/south-africa.png"
-    },
-    {
-      "name": "south-korea",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/south-korea.png"
-    },
-    {
-      "name": "spain",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/spain.png"
-    },
-    {
-      "name": "sweden",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/sweden.png"
-    },
-    {
-      "name": "switzerland",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/switzerland.png"
-    },
-    {
-      "name": "tanzania",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/tanzania.png"
-    },
-    {
-      "name": "thailand",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/thailand.png"
-    },
-    {
       "name": "tiktok",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/tiktok.png"
-    },
-    {
-      "name": "trinidad-and-tobago",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/trinidad-and-tobago.png"
-    },
-    {
-      "name": "turkey",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/turkey.png"
-    },
-    {
-      "name": "ukraine",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/ukraine.png"
-    },
-    {
-      "name": "united-arab-emirates",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/united-arab-emirates.png"
-    },
-    {
-      "name": "united-states-of-america",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/united-states-of-america.png"
-    },
-    {
-      "name": "vietnam",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/vietnam.png"
-    },
-    {
-      "name": "yemen",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/yemen.png"
     }
   ]
 }
