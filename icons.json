@@ -2,10 +2,6 @@
   "name": "Proxy Icons",
   "icons": [
     {
-      "name": "A",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/A.png"
-    },
-    {
       "name": "antman",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/antman.png"
     },
