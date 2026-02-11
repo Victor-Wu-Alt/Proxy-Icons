@@ -2,10 +2,6 @@
   "name": "Proxy Icons",
   "icons": [
     {
-      "name": "NetSyo",
-      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/NetSyo.png"
-    },
-    {
       "name": "antman",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/antman.png"
     },
@@ -48,6 +44,10 @@
     {
       "name": "naruto",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/naruto.png"
+    },
+    {
+      "name": "netsyo",
+      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/netsyo.png"
     },
     {
       "name": "texon",
