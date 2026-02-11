@@ -2,6 +2,10 @@
   "name": "Proxy Icons",
   "icons": [
     {
+      "name": "NetSyo",
+      "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/NetSyo.png"
+    },
+    {
       "name": "antman",
       "url": "https://raw.githubusercontent.com/Victor-Wu-Alt/Proxy-Icons/main/assets/antman.png"
     },
